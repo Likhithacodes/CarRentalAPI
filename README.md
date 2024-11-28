@@ -25,7 +25,7 @@ The system uses **JWT-based authentication** for secure access and role-based au
 
 ### Security
 - **JWT Authentication**: Secure endpoints with JWT tokens.
-- **Role-based Authorization**: Restricted certain operations (car addition,updation,deletion) to `Admin` users only.
+- **Role-based Authorization**: Restricted certain operations (car addition,updation,deletion) to `Admin` only.
   ---
 
 ## Endpoints
