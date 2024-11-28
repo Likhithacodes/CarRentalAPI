@@ -105,4 +105,11 @@ after deleting the car with ID=1 got removed from the database
 if trying to add a car without Authorization
 ![image](https://github.com/user-attachments/assets/0e0655f5-ec58-4ecf-89df-d7538eb37bae)
 
-I tried sending an email with the sendgrid but i was unable to login into the sendgrid and get and APIKey
+on booking the car for rent an email is sent as confirmation 
+![image](https://github.com/user-attachments/assets/694f3ce9-af4a-4c86-9df4-d7891ffd4182)
+successfully recieved email.
+![image](https://github.com/user-attachments/assets/1d9816ff-f4f0-4c6d-b2fd-d081b696838d)
+if trying to book the same car for rent 
+![image](https://github.com/user-attachments/assets/ac3db3dd-f407-4164-a034-20a51a79d8d6)
+
+
